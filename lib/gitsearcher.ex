@@ -1,17 +1,5 @@
 defmodule Gitsearcher do
-  @moduledoc """
-  Documentation for Gitsearcher.
-  """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Gitsearcher.hello
-      :world
-
-  """
   # Feed in stats info for all the repos from `stats_info`
   # Choose a stat that you are interested in (:forks, :watchers, :stargazers)
   # See all the repos that have > n for that stat
